@@ -3,4 +3,4 @@
 
 저는 현재 디스코드에서 봇 개발을 공부하고 있어요!
 
-제가 개발중인, [경손봇](https://github.com/Krchip/gyeongsonbot/) 도 한번 확인해보세요!
+제가 개발중인, [경손봇](https://github.com/Gyeongson/gyeongsonbot) 도 한번 확인해보세요!
